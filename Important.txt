@@ -7,3 +7,4 @@ commit
 
 git first commit
 confict resolved
+commit test
