@@ -6,6 +6,4 @@ commit
 
 
 git first commit
-
-
-test
+confict resolved
