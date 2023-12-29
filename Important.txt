@@ -1,0 +1,8 @@
+alter session set "_ORACLE_SCRIPT"=true;
+create user firstdb identified by oracle;
+grant dba to firstdb;
+commit
+
+
+
+git first commit
