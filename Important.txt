@@ -8,3 +8,4 @@ commit
 git first commit
 new branch creation commit
 new 2nd  branch from manin created testing
+after 2nd branch creation committing changes to 2nd branch
