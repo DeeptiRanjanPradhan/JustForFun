@@ -1,0 +1,6 @@
+calculator development .It will contain 5 feature .
+feature #1: addition
+feature #2: subtraction
+feature #3: multiplication
+feature #4: division
+feature #5: reminder
